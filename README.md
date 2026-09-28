@@ -28,4 +28,4 @@ python bot.py
 ## Todo
 - percent change alerts (e.g. BTC -5% in 1h)
 - support for other exchanges
-- good luck☺️
+# good luck☺️

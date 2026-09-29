@@ -1,6 +1,8 @@
 # crypto-alert-bot
 
 Telegram bot that pings you when a coin hits your price. Prices come from the Binance public API (no API key needed).
+screenshotlol.png
+![example](screenshotlol.png)
 
 ## Commands
 ```
